@@ -7,3 +7,6 @@
 [submodule "devblog-service"]
 	path = devblog-service
 	url = https://github.com/SinLess-Games/devblog-service.git
+[submodule "helix-bot-service"]
+	path = helix-bot-service
+	url = https://github.com/SinLess-Games/helix-bot-service.git
