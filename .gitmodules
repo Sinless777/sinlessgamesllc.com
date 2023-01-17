@@ -1,0 +1,9 @@
+[submodule "helix-api-service"]
+	path = helix-api-service
+	url = https://github.com/SinLess-Games/helix-api-service.git
+[submodule "gateway-frontend"]
+	path = gateway-frontend
+	url = https://github.com/SinLess-Games/gateway-frontend.git
+[submodule "devblog-service"]
+	path = devblog-service
+	url = https://github.com/SinLess-Games/devblog-service.git
