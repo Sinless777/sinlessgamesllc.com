@@ -4,3 +4,6 @@
 [submodule "devblog-service"]
 	path = devblog-service
 	url = https://github.com/SinLess-Games/devblog-service.git
+[submodule "helix-payment-gateway-service"]
+	path = helix-payment-gateway-service
+	url = https://github.com/SinLess-Games/helix-payment-gateway-service
